@@ -103,6 +103,7 @@ public class ConditionalStatements {
 			
 	   case "Frontend":
 		   System.out.println("This is frontend for web page designing");
+		   sc.close();
 		  
 	   
 	}
