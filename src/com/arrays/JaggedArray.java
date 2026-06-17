@@ -1,4 +1,4 @@
-package com.basicconcepts;
+package com.arrays;
 
 public class JaggedArray {
 

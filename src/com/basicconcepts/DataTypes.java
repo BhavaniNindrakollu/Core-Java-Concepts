@@ -3,10 +3,11 @@ package com.basicconcepts;
 public class DataTypes {
 
 	public static void main(String[] args) {
-		//Primitive data types which can store single value
-		//      Default value of  numeric primitive data types is zero
-		// For char default value is '\u0000'
-		//For boolean default value is false
+		// Default value of byte, short, integer and long is 0
+		// Default value of float is 0.0f
+		// Default value of double is 0.0d
+		// Default value of char is '\u0000'
+		// Default value of boolean is false
 		byte b= 25;
 		short s =199;
 		int i =66756677;
