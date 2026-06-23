@@ -1,7 +1,7 @@
 package accessmodifiers;
 import accessmodifiers.AccessModifiers;
 
-public class TestModifiers {
+public class TestAccessModifiers {
 
 	public static void main(String[] args) {
 	System.out.println("Accessing public method here from AccessModifiers class to TestModifiers class");

@@ -9,7 +9,7 @@ class Subclass extends AccessModifiers{
 	}
 }
 
-public class TestAccessMoodifiers {
+public class TestAccessMoodifiersInAnotherPackage {
 	
 	public static void main(String[] args) {
 		System.out.println("Accessing public method here from accessmodifiers package to testaccessmodifiers package");
