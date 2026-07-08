@@ -1,4 +1,4 @@
-package com.oppsconcept;
+package com.oopsconcept;
 
 // In this Multilevel Inheritance a derived class inherits from a super or parent class
 // The derived class also acts as the parent class to other class

@@ -1,4 +1,4 @@
-package com.oppsconcept;
+package com.oopsconcept;
 
 //In this single inheritance a class extends another one class only
 

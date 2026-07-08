@@ -1,4 +1,4 @@
-package com.oppsconcept;
+package com.oopsconcept;
 
 //Demonstrates Multiple Inheritance using Interfaces.
 //Java does not support multiple inheritance through classes.

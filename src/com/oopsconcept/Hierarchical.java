@@ -1,4 +1,4 @@
-package com.oppsconcept;
+package com.oopsconcept;
 
 /*Hierarchical Inheritance is multtiple sub classes inheriting properties from 
 single super class */
